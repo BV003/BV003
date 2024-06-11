@@ -1,4 +1,5 @@
 ### Hi 👋
+我是Michael Liu，目前是武汉大学计算机科学学院的本科生。
 
 I'm Michael Liu, currently an undergraduate student at the School of Computer Science, Wuhan University (WHU), China.
 
@@ -7,15 +8,11 @@ I'm Michael Liu, currently an undergraduate student at the School of Computer Sc
 
 I am currently studying artificial intelligence and software engineering, and my career goal is to become an engineer and use technology to improve people's lives.
 
-
-
 ### ⚡All Skills And Tools
 
-![skills](https://skillicons.dev/icons?perline=10&i=c#,vite)
+![skills](https://skillicons.dev/icons?perline=10&i=c#,vue)
 
 ![tools](https://skillicons.dev/icons?perline=10&i=github,git,stackoverflow,vscode,idea,visualstudio)
-
-### 🤔 I’m looking for help with 
 
 
 <!--👯 I’m looking to collaborate on ...-->
