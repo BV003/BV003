@@ -10,7 +10,7 @@ I am currently studying artificial intelligence and software engineering, and my
 
 ### ⚡All Skills And Tools
 
-![skills](https://skillicons.dev/icons?perline=10&i=c#,vue)
+![skills](https://skillicons.dev/icons?perline=10&i=vue,c#)
 
 ![tools](https://skillicons.dev/icons?perline=10&i=github,git,stackoverflow,vscode,idea,visualstudio)
 
