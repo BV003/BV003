@@ -1,12 +1,12 @@
 ### Hi 👋
-我是Michael Liu，目前是武汉大学计算机科学学院的本科生。
+我是Michael Liu。
 
-I'm Michael Liu, currently an undergraduate student at the School of Computer Science, Wuhan University (WHU), China.
+I'm Michael Liu.
 
 ### 🌱 Work
-我目前正在学习人工智能和软件工程，我的职业目标是成为一名工程师，使用科技改善人们的生活。
+我目前正在学习人工智能和软件工程。
 
-I am currently studying artificial intelligence and software engineering, and my career goal is to become an engineer and use technology to improve people's lives.
+I am currently studying artificial intelligence and software engineering.
 
 ### ⚡All Skills And Tools
 
