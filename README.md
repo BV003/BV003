@@ -4,7 +4,8 @@ I'm Michael Liu.
 ### 🌱 Work
 I am currently studying artificial intelligence and software engineering.
 
-### ⚡All Skills And Tools
+### 📈 Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BV003)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
