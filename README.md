@@ -1,8 +1,6 @@
 ### Hi 👋
-I'm Michael Liu.
-
-I am currently studying artificial intelligence and software engineering.
-
+I'm Michael Liu.  
+I am currently studying artificial intelligence and software engineering.  
 Aspiring Research Assistant in computer science and artificial intelligence.
 
 ### 📈 Stats
