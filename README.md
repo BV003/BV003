@@ -9,8 +9,8 @@ Aspiring Research Assistant in computer science and artificial intelligence.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BV003&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Node.js](https://img.shields.io/badge/Node.js-18-green)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
 <!--👯 I’m looking to collaborate on ...-->
 
 
