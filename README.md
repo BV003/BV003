@@ -5,9 +5,7 @@ Aspiring Research Assistant in computer science and artificial intelligence.
 
 ### ⚡ Skills And Tools
 
-![skills](https://skillicons.dev/icons?perline=10&i=c#,vue)
-
-![tools](https://skillicons.dev/icons?perline=10&i=github,git,stackoverflow,vscode,idea,visualstudio)
+![skills](https://skillicons.dev/icons?perline=10&i=python,nodejs)
 
 ### 📈 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BV003&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
