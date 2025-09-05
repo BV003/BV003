@@ -3,7 +3,7 @@ I'm Michael Liu.
 I am currently studying artificial intelligence and software engineering.  
 Aspiring Research Assistant in computer science and artificial intelligence.
 
-### ⚡ Skills And Tools
+### ⚡ Skills
 
 ![skills](https://skillicons.dev/icons?perline=10&i=python,nodejs)
 
