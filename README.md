@@ -12,6 +12,7 @@ Aspiring Research Assistant in computer science and artificial intelligence.
 #### Full-stack web applications
 - [DayTask](https://github.com/BV003/DayTask)
 
+
 ### ⚡ Skills
 
 ![skills](https://skillicons.dev/icons?perline=10&i=python,nodejs)
