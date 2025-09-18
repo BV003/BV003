@@ -3,6 +3,15 @@ I'm Michael Liu.
 I am currently studying artificial intelligence and software engineering.  
 Aspiring Research Assistant in computer science and artificial intelligence.
 
+### 🔗 Projects Overview
+
+#### Robust AI agent systems
+- [ArgoAgent](https://github.com/BV003/ArgoAgent)
+- [ArgoReport](https://github.com/BV003/ArgoReport)
+
+#### Full-stack web applications
+- [DayTask](https://github.com/BV003/DayTask)
+
 ### ⚡ Skills
 
 ![skills](https://skillicons.dev/icons?perline=10&i=python,nodejs)
@@ -13,6 +22,7 @@ Aspiring Research Assistant in computer science and artificial intelligence.
 ### 🌐 Website
 Learn more on my personal [website](https://bv003.github.io/)
 <!--👯 I’m looking to collaborate on ...-->
+
 
 
 
