@@ -18,7 +18,7 @@ Aspiring Research Assistant in computer science and artificial intelligence.
 ![skills](https://skillicons.dev/icons?perline=10&i=python,nodejs)
 
 ### 📈 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BV003&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![BV003's GitHub stats](https://github-readme-stats.vercel.app/api?username=BV003&count_private=true&include_all_commits=true\&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐 Website
 Learn more on my personal [website](https://bv003.github.io/)
