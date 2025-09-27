@@ -8,6 +8,7 @@ Aspiring Research Assistant in computer science and artificial intelligence.
 #### Robust AI agent systems
 - [ArgoAgent](https://github.com/BV003/ArgoAgent)
 - [ArgoReport](https://github.com/BV003/ArgoReport)
+- [ArgoMCP](https://github.com/BV003/ArgoMCP)
 - [LilRag](https://github.com/BV003/LilRag)
 
 #### Full-stack web applications
