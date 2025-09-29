@@ -9,7 +9,7 @@ Aspiring Research Assistant in computer science and artificial intelligence.
 - [ArgoAgent](https://github.com/BV003/ArgoAgent)
 - [ArgoReport](https://github.com/BV003/ArgoReport)
 - [ArgoMCP](https://github.com/BV003/ArgoMCP)
-- [LilRag](https://github.com/BV003/LilRag)
+- [LilRag](https://github.com/BV003/LilRag):A lightweight Retrieval-Augmented Generation (RAG) framework for building custom Q&A systems.
 
 #### Full-stack web applications
 - [DayTask](https://github.com/BV003/DayTask)
