@@ -10,7 +10,7 @@ Aspiring Research Assistant in computer science and artificial intelligence.
 - [ArgoReport](https://github.com/BV003/ArgoReport)
 - [ArgoMCP](https://github.com/BV003/ArgoMCP)
 ArgoMCP is an experimental platform that combines intelligent agents with MCP tools
-- [LilRag](https://github.com/BV003/LilRag)  
+- [LilRag](https://github.com/BV003/LilRag)
 A lightweight Retrieval-Augmented Generation (RAG) framework for building custom Q&A systems.
 
 #### Full-stack web applications
