@@ -7,6 +7,7 @@ Aspiring Research Assistant in computer science and artificial intelligence.
 
 #### Robust AI agent systems
 - [ArgoAgent](https://github.com/BV003/ArgoAgent)
+ArgoAgent is a lightweight Python framework for building basic intelligent agents without relying on any heavy frameworks.
 - [ArgoReport](https://github.com/BV003/ArgoReport)
 - [ArgoMCP](https://github.com/BV003/ArgoMCP)
 ArgoMCP is an experimental platform that combines intelligent agents with MCP tools
