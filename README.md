@@ -17,6 +17,8 @@ A lightweight Retrieval-Augmented Generation (RAG) framework for building custom
 #### Full-stack web applications
 - [DayTask](https://github.com/BV003/DayTask)
 
+#### Web3 Project
+
 
 ### ⚡ Skills
 
