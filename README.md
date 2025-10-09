@@ -5,7 +5,7 @@ I aim to become a skilled and innovative engineer in computer science and AI.
 
 ### 🔗 Projects Overview
 
-#### Robust AI agent systems
+Robust AI agent systems
 - [ArgoAgent](https://github.com/BV003/ArgoAgent)
 ArgoAgent is a lightweight Python framework for building basic intelligent agents without relying on any heavy frameworks.
 - [ArgoReport](https://github.com/BV003/ArgoReport)
@@ -14,10 +14,10 @@ ArgoMCP is an experimental platform that combines intelligent agents with MCP to
 - [LilRag](https://github.com/BV003/LilRag)
 A lightweight Retrieval-Augmented Generation (RAG) framework for building custom Q&A systems.
 
-#### Full-stack web applications
+Full-stack web applications
 - [DayTask](https://github.com/BV003/DayTask)
 
-#### Web3 Project
+Web3 Project
 
 
 ### ⚡ Skills
