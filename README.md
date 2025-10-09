@@ -24,6 +24,9 @@ A lightweight Retrieval-Augmented Generation (RAG) framework for building custom
 
 ![skills](https://skillicons.dev/icons?perline=10&i=python,nodejs)
 
+### ⭐ Contributions
+- [Codecademy/docs](https://github.com/Codecademy/docs)
+
 ### 📈 Stats
 ![BV003's GitHub stats](https://github-readme-stats.vercel.app/api?username=BV003&count_private=true&include_all_commits=true\&hide=contribs)
 
