@@ -26,6 +26,7 @@ Web3 Project
 
 ### ⭐ Contributions
 - [Codecademy/docs](https://github.com/Codecademy/docs)
+- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 ### 📈 Stats
 ![BV003's GitHub stats](https://github-readme-stats.vercel.app/api?username=BV003&count_private=true&include_all_commits=true\&hide=contribs)
