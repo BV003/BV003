@@ -14,6 +14,9 @@ ArgoMCP is an experimental platform that combines intelligent agents with MCP to
 A lightweight Retrieval-Augmented Generation (RAG) framework for building custom Q&A systems.
 - [ArgoReport](https://github.com/BV003/ArgoReport)
 
+LLM Framework
+-[MicroMind](https://github.com/BV003/MicroMind)
+
 Full-stack web applications
 - [DayTask](https://github.com/BV003/DayTask)
 
