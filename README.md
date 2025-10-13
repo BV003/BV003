@@ -15,6 +15,7 @@ A lightweight Retrieval-Augmented Generation (RAG) framework for building custom
 
 LLM Framework
 - [MicroMind](https://github.com/BV003/MicroMind)
+Built a compact LLM from scratch with variants for pretraining, SFT, DPO, reasoning, and LoRA, focusing on understanding the full model training pipeline.
 
 Full-stack web applications
 - [DayTask](https://github.com/BV003/DayTask)
