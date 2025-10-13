@@ -5,7 +5,7 @@ I aim to become a skilled and innovative engineer in computer science and AI.
 
 ### 🔗 Projects Overview
 
-Robust AI agent systems
+AI agent
 - [ArgoAgent](https://github.com/BV003/ArgoAgent)
 ArgoAgent is a lightweight Python framework for building basic intelligent agents without relying on any heavy frameworks.
 - [ArgoMCP](https://github.com/BV003/ArgoMCP)
