@@ -12,7 +12,6 @@ ArgoAgent is a lightweight Python framework for building basic intelligent agent
 ArgoMCP is an experimental platform that combines intelligent agents with MCP tools
 - [LilRag](https://github.com/BV003/LilRag)
 A lightweight Retrieval-Augmented Generation (RAG) framework for building custom Q&A systems.
-- [ArgoReport](https://github.com/BV003/ArgoReport)
 
 LLM Framework
 - [MicroMind](https://github.com/BV003/MicroMind)
