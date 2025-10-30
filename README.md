@@ -19,6 +19,7 @@ Built a compact LLM from scratch with variants for pretraining, SFT, DPO, reason
 
 Full-stack web applications
 - [Habit-Builders](https://github.com/BV003/Habit-Builders)
+Habit-Builders is a full-stack app that helps users build healthy habits, track fitness, and engage with a community.
 
 Web3 Project
 
