@@ -18,7 +18,7 @@ LLM Framework
 Built a compact LLM from scratch with variants for pretraining, SFT, DPO, reasoning, and LoRA, focusing on understanding the full model training pipeline.
 
 Full-stack web applications
-- [DayTask](https://github.com/BV003/DayTask)
+- [Habit-Builders](https://github.com/BV003/Habit-Builders)
 
 Web3 Project
 
