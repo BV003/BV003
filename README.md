@@ -5,7 +5,7 @@ I aim to become a skilled and innovative engineer in computer science and AI.
 
 ### 🔗 Projects Overview
 
-AI agent
+#### AI agent
 
 [ArgoAgent](https://github.com/BV003/ArgoAgent)
 ArgoAgent is a lightweight Python framework for building basic intelligent agents without relying on any heavy frameworks.
@@ -18,20 +18,21 @@ A lightweight Retrieval-Augmented Generation (RAG) framework for building custom
 
 ---
 
-LLM Framework
+#### LLM Framework
 
 [MicroMind](https://github.com/BV003/MicroMind)
 Built a compact LLM from scratch with variants for pretraining, SFT, DPO, reasoning, and LoRA, focusing on understanding the full model training pipeline.
 
 ---
 
-Full-stack web applications
+#### Full-stack web applications
+
 [Habit-Builders](https://github.com/BV003/Habit-Builders)
 Habit-Builders is a full-stack app that helps users build healthy habits, track fitness, and engage with a community.
 
 ---
 
-Web3 Project
+#### Web3 Project
 
 
 ### ⚡ Skills
