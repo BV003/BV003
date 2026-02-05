@@ -30,7 +30,7 @@ Built a compact LLM from scratch with variants for pretraining, SFT, DPO, reason
 
 ### 📈 Stats
 ![BV003's GitHub stats](https://github-readme-stats.vercel.app/api?username=BV003&count_private=true&include_all_commits=true\&hide=contribs)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ### 🌐 Website
 Learn more on my personal [website](https://bv003.github.io/)
 <!--👯 I’m looking to collaborate on ...-->
