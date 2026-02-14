@@ -5,6 +5,7 @@ I aim to become a skilled and innovative engineer in computer science and AI.
 
 ### 🔗 Projects Overview
 
+-[Skills](https://github.com/BV003/Skills)
 - [bv003.me](https://github.com/BV003/bv003.me) A minimal, beautiful personal blog.
 - [Habit-Builders](https://github.com/BV003/Habit-Builders)
 Habit-Builders is a full-stack app that helps users build healthy habits, track fitness, and engage with a community.
