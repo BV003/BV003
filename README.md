@@ -5,9 +5,15 @@ I aim to become a skilled and innovative engineer in computer science and AI.
 
 ### 🔗 Projects Overview
 
+#### AI Infra
+
+#### Small Language Model
+
+#### Serving
+- [mini-infra](https://github.com/BV003/mini-infra) My personal infra.
+
 #### personal env
 - [Skills](https://github.com/BV003/Skills) Some useful skills for opencode.
-- [mini-infra](https://github.com/BV003/mini-infra) My personal infra.
 - [dotfiles](https://github.com/BV003/dotfiles) My personal dotfile.
 
 #### study demo
