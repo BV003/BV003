@@ -5,15 +5,10 @@ I aim to become a skilled and innovative engineer in computer science and AI.
 
 ### 🔗 Projects Overview
 
-#### AI Infra
 
-#### Small Language Model
 
-#### Serving
-- [mini-infra](https://github.com/BV003/mini-infra) My personal infra.
 
 #### personal env
-- [Skills](https://github.com/BV003/Skills) Some useful skills for opencode.
 - [dotfiles](https://github.com/BV003/dotfiles) My personal dotfile.
 
 #### study demo
@@ -27,8 +22,6 @@ ArgoAgent is a lightweight Python framework for building basic intelligent agent
 ArgoMCP is an experimental platform that combines intelligent agents with MCP tools.
 - [LilRag](https://github.com/BV003/LilRag)
 A lightweight Retrieval-Augmented Generation (RAG) framework for building custom Q&A systems.
-- [MicroMind](https://github.com/BV003/MicroMind)
-Built a compact LLM from scratch with variants for pretraining, SFT, DPO, reasoning, and LoRA, focusing on understanding the full model training pipeline.
 
 
 
@@ -46,7 +39,6 @@ Built a compact LLM from scratch with variants for pretraining, SFT, DPO, reason
 
 ### 🌐 Website
 Learn more on my personal [website](https://bv003.github.io/)
-<!--👯 I’m looking to collaborate on ...-->
 
 
 
