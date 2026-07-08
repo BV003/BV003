@@ -4,16 +4,11 @@ I am currently studying artificial intelligence and software engineering.
 I aim to become a skilled and innovative engineer in computer science and AI.
 
 ### 🔗 Projects Overview
-
-
-
-
 #### personal env
 - [dotfiles](https://github.com/BV003/dotfiles) My personal dotfile.
+- [bv003.me](https://github.com/BV003/bv003.me) A minimal, beautiful personal blog.
 
 #### study demo
-
-- [bv003.me](https://github.com/BV003/bv003.me) A minimal, beautiful personal blog.
 - [Habit-Builders](https://github.com/BV003/Habit-Builders)
 Habit-Builders is a full-stack app that helps users build healthy habits, track fitness, and engage with a community.
 - [ArgoAgent](https://github.com/BV003/ArgoAgent)
@@ -22,13 +17,6 @@ ArgoAgent is a lightweight Python framework for building basic intelligent agent
 ArgoMCP is an experimental platform that combines intelligent agents with MCP tools.
 - [LilRag](https://github.com/BV003/LilRag)
 A lightweight Retrieval-Augmented Generation (RAG) framework for building custom Q&A systems.
-
-
-
-
-### ⚡ Skills
-
-![skills](https://skillicons.dev/icons?perline=10&i=python,nodejs)
 
 ### ⭐ Contributions
 - [Codecademy/docs](https://github.com/Codecademy/docs)
