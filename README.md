@@ -6,7 +6,7 @@ I aim to become a skilled and innovative engineer in computer science and AI.
 ### 🔗 Projects Overview
 #### personal env
 - [dotfiles](https://github.com/BV003/dotfiles) My personal dotfile.
-- [bv003.me](https://github.com/BV003/bv003.me) A minimal, beautiful personal blog.
+- [bv003.me](https://github.com/BV003/bv003.me) My personal blog.
 
 #### study demo
 - [Habit-Builders](https://github.com/BV003/Habit-Builders)
