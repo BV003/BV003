@@ -4,11 +4,14 @@ I am currently studying artificial intelligence and software engineering.
 I aim to become a skilled and innovative engineer in computer science and AI.
 
 ### 🔗 Projects Overview
+
 #### personal env
 - [dotfiles](https://github.com/BV003/dotfiles) My personal dotfile.
 - [bv003.me](https://github.com/BV003/bv003.me) My personal blog.
 
 #### study demo
+- [TinyNCCL](https://github.com/BV003/TinyNCCL)
+I do this project for learning about NCCL and Distributed system.
 - [Habit-Builders](https://github.com/BV003/Habit-Builders)
 Habit-Builders is a full-stack app that helps users build healthy habits, track fitness, and engage with a community.
 - [ArgoAgent](https://github.com/BV003/ArgoAgent)
