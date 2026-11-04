@@ -26,7 +26,7 @@ A lightweight Retrieval-Augmented Generation (RAG) framework for building custom
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 ### 📈 Stats
-[![BV003's GitHub stats](https://github-stats-extended.vercel.app/api?username=BV003&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&v=1)](https://github.com/stats-organization/github-stats-extended)
+[![BV003's GitHub stats](https://github-stats-extended.vercel.app/api?username=BV003&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&v=2)](https://github.com/stats-organization/github-stats-extended)
 
 ### 🌐 Website
 Learn more on my personal [website](https://bv003.github.io/)
