@@ -6,9 +6,9 @@ I aim to become a skilled and innovative engineer in computer science and AI.
 ### 🔗 Projects Overview
 
 #### personal env
+- [LeanVim](https://github.com/BV003/LeanVim) A lean Neovim config with only what's necessary.
 - [dotfiles](https://github.com/BV003/dotfiles) My personal dotfile.
 - [bv003.me](https://github.com/BV003/bv003.me) My personal blog.
-- [LeanVim](https://github.com/BV003/LeanVim) A lean Neovim config with only what's necessary.
 
 #### study demo
 - [TinyNCCL](https://github.com/BV003/TinyNCCL)
