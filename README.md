@@ -5,13 +5,13 @@ I aim to become a skilled and innovative engineer in computer science and AI.
 
 ### 🔗 Projects Overview
 
+#### ML System
+- [MemServe](https://github.com/PhysFlow/MemServe) MemServe serves multiple models across NVIDIA MIG instances using CPU-resident weights with a customized SGLang inference engine.
+
 #### Personal Env
 - [LeanVim](https://github.com/BV003/LeanVim) A lean Neovim config with only what's necessary.
 - [dotfiles](https://github.com/BV003/dotfiles) My personal dotfile.
 - [bv003.me](https://github.com/BV003/bv003.me) My personal blog.
-
-#### ML System
-- [MemServe](https://github.com/PhysFlow/MemServe) MemServe serves multiple models across NVIDIA MIG instances using CPU-resident weights with a customized SGLang inference engine.
 
 #### Study Demo
 - [TinyNCCL](https://github.com/BV003/TinyNCCL)
